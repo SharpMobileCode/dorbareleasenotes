@@ -4,14 +4,20 @@ body {
     color: #222222;
 }
 
-h1 {
+h2 {
     font-family: 'PT Sans Caption', sans-serif;
 }
 
 dt {
-    font-size: 14pt
+    font-size: 14pt;
+    display: block;
+    float: left;
+    margin-top: 20px;
+    clear: both;
 }
 
 dd {
-    font-size: 12pt
+    font-size: 12pt;
+    display: block;
+    float: left;
 }
